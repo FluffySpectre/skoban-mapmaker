@@ -1,0 +1,1 @@
+A simple tool to create maps for the Skoban-game.
